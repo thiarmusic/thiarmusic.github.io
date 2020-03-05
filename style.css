@@ -3,10 +3,6 @@
 }
 
 
-
-#about
-}
-
 .sizer {
     width: 100px;
 }
@@ -23,3 +19,6 @@
     font-size: 48px;
 }
 
+h1 {text-align:center;}
+
+p {text-align:center;}
