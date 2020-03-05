@@ -1,5 +1,10 @@
-#about {
+#header {
+    
+}
 
+
+
+#about
 }
 
 .sizer {
@@ -10,6 +15,11 @@
     width: 50%;
 }
 
-body{
-    color: rgb(151, 196, 196);
+
+
+#body {
+    background-color: rgb(0, 10, 10);
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
 }
+
