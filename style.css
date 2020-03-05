@@ -16,6 +16,11 @@ a {
     color: black;
 }
 
+hr{
+    border: 0.5px solid rgb(0, 0, 0);
+        
+}
+
 a:link {
     
     text-decoration: none;
